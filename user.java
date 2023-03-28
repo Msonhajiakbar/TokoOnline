@@ -24,6 +24,8 @@ public class user {
     public String getPassword() {
         return password;
     }
+    
+    //LOL
 
     public void setPassword(String password) {
         this.password = password;
